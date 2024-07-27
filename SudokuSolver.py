@@ -53,55 +53,55 @@ def solve(board):
 r1=[]
 i=1
 while(i<10):
-    n1=int(input("enter the element in 1st row"))
+    n1=int(input("enter the element in 1st row : "))
     i=i+1
     r1.append(n1)
 r2=[]
 i=1
 while(i<10):
-    n2=int(input("enter the element in 2nd row"))
+    n2=int(input("enter the element in 2nd row : "))
     i=i+1
     r2.append(n2)
 r3=[]
 i=1
 while(i<10):
-    n3=int(input("enter the element in 3rd row"))
+    n3=int(input("enter the element in 3rd row : "))
     i=i+1 
     r3.append(n3)
 r4=[]
 i=1
 while(i<10):
-    n4=int(input("enter the element in 4th row"))
+    n4=int(input("enter the element in 4th row : "))
     i=i+1
     r4.append(n4)
 r5=[]
 i=1
 while(i<10):
-    n5=int(input("enter the element in 5th row"))
+    n5=int(input("enter the element in 5th row : "))
     i=i+1
     r5.append(n5)
 r6=[]
 i=1
 while(i<10):
-    n6=int(input("enter the element in 6th row"))
+    n6=int(input("enter the element in 6th row : "))
     i=i+1
     r6.append(n6)
 r7=[]
 i=1
 while(i<10):
-    n7=int(input("enter the element in 7th row"))
+    n7=int(input("enter the element in 7th row : "))
     i=i+1
     r7.append(n7)
 r8=[]
 i=1
 while(i<10):
-    n8=int(input("enter the element in 8th row"))
+    n8=int(input("enter the element in 8th row : "))
     i=i+1
     r8.append(n8)
 r9=[]
 i=1
 while(i<10):
-    n9=int(input("enter the element in 9th row"))
+    n9=int(input("enter the element in 9th row : "))
     i=i+1
     r9.append(n9)
 print(r1)
